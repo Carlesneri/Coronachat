@@ -1,0 +1,8 @@
+.nickname{
+    width: 20em;
+}
+.message form{
+    display: flex;
+    flex-direction: column;
+}
+

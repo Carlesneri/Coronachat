@@ -1,0 +1,23 @@
+.message-received{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: .2em 0;
+}
+.nickname-text{
+    display: flex;
+    max-width: 600px;
+    overflow: hidden;
+}
+.message-received em{
+    font-size: .9em;
+}
+.message-received .time{
+    margin: 0 1em;
+    min-width: 10em;
+    font-size: .8em;
+}
+.nickname-text p span {
+    margin-right: 1em;
+}
