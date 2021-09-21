@@ -4,10 +4,10 @@ import './mapa.css'
 
 const OPTIONS = {
     center: {
-        lat: 39,
-        lng: -0.17
+        lat: 45,
+        lng: 10
     },
-    zoom: 2
+    zoom: 4
 }
 const mapStyles = {
     width: '100%',

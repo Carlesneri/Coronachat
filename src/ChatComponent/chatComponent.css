@@ -1,0 +1,28 @@
+.chat{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: var(--nav-color);
+}
+
+.message-container{
+    width: calc(100% - 2em);
+    max-width: 600px;
+}
+
+.messages-container{
+    margin: 1em;
+    max-width: 600px;
+}
+.info-bar{
+    font-size: 1em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 0;
+    padding: .5em;
+    border-bottom: 1px solid var(--nav-color);
+    width: 100%;
+}

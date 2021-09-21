@@ -18,6 +18,9 @@ function App() {
             <Route path='/' exact>
               <ChatComponent />
             </Route>
+            {/* <Route path='/info' exact>
+              <Info />
+            </Route> */}
             <Route path='/mapa' exact>
               <Mapa />
             </Route>
