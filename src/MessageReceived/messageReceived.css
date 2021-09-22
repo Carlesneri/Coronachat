@@ -1,9 +1,9 @@
 .message-received{
-    width: 100%;
+    max-width: 100%;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin: .2em 0;
+    margin: .2em 1rem;
 }
 .nickname-text{
     display: flex;
@@ -16,7 +16,7 @@
 .message-received .time{
     margin: 0 1em;
     min-width: 10em;
-    font-size: .8em;
+    font-size: .6em;
 }
 .nickname-text p span {
     margin-right: 1em;

@@ -30,8 +30,8 @@ class Messages extends Component{
                 )
             })
             :
-            <div>
-                <h2>No hay mensajes aun</h2>
+            <div className="messages-container">
+                <h2>Cargando mensajes</h2>
             </div>
         )
     }

@@ -13,7 +13,9 @@
 
 .messages-container{
     margin: 1em;
-    max-width: 600px;
+    padding: 0 1rem;
+    width: 600px;
+    max-width: 100%;
 }
 .info-bar{
     font-size: 1em;
